@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.target {
+    height: 10px;
+}
+
+main {
+    width: 100%;
+}
+
+.row {
+    --bs-gutter-x: 1;
+}
